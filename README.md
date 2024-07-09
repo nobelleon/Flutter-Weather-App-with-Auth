@@ -1,6 +1,26 @@
 # Flutter-Weather-App-with-Auth
 
+A Flutter Application To Discover The Weather Using [WeatherAPI](https://www.visualcrossing.com/weather-api) 🚀
+
+# Output
+
 ![Weather App](https://github.com/nobelleon/Flutter-Weather-App-with-Auth/assets/76748114/9a713b42-9c84-4b25-98ad-59010ec71c28)
+
+---
+## Dependencies 📦️
+
+- [get](https://pub.dev/packages/get) - Manage states and inject dependencies.
+- [http](https://pub.dev/packages/http) - A composable, Future-based library for making HTTP requests.
+- [intl](https://pub.dev/packages/intl) - Contains code to deal with date and number formatting and parsing.
+- [google_fonts](https://pub.dev/packages/google_fonts) - to using custom fonts that allows you to re-use one font over multiple projects.
+- [d_input](https://pub.dev/packages/d_input) - a package that provide input widget to build faster input with default border style.
+- [d_view](https://pub.dev/packages/d_view) - a package that provides wigdet for response and other basic needs in a concise way.
+- [d_button](https://pub.dev/packages/d_button) - Custom buttons which you can create and re-style as you wish. It can be used for one or more widgets.
+- [d_info](https://pub.dev/packages/d_info) - Flutter package for response info message like dialog, snackbar, etc.
+- [firebase_core](https://pub.dev/packages/firebase_core) - Flutter plugin for Firebase Core, enabling connecting to multiple Firebase apps.
+- [firebase_auth](https://pub.dev/packages/firebase_auth) - Flutter plugin for Firebase Auth, enabling authentication using passwords, phone numbers and identity providers like Google, Facebook and Twitter.
+
+---
 
 A new Flutter project.         
 
