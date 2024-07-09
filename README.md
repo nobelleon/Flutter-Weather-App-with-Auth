@@ -31,6 +31,8 @@ number of popular features:
 * Login with e-mail & password
 * Logout Functionality
 
+---
+
 ## Dependencies 📦️
 
 - [get](https://pub.dev/packages/get) - Manage states and inject dependencies.
