@@ -7,6 +7,30 @@ A Flutter Application To Discover The Weather Using [WeatherAPI](https://www.vis
 ![Weather App](https://github.com/nobelleon/Flutter-Weather-App-with-Auth/assets/76748114/9a713b42-9c84-4b25-98ad-59010ec71c28)
 
 ---
+
+## Architecture
+
+The app is built using the Model-View-ViewModel (MVVM) architecture. This design pattern separates the concerns of data, UI, and business logic, leading to a more modular and testable codebase. The app's architecture is further enhanced by GetX, a state management library that simplifies reactive programming and state transitions.
+
+---
+
+## State Management
+
+State management is handled using the GetX library. The architecture separates the app into models, views, and view models, providing a reactive and efficient way to manage application state and update the UI.
+
+---
+
+## Features
+
+Weather App Onboarding is a fully functional app that provides Flutter
+developers with a coded template for their mobile app projects. It has a great
+number of popular features:
+
+* Cross platform support (Android, iOS, Web and macOS)
+* Firebase Auth integration
+* Login with e-mail & password
+* Logout Functionality
+
 ## Dependencies 📦️
 
 - [get](https://pub.dev/packages/get) - Manage states and inject dependencies.
