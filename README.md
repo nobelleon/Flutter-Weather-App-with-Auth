@@ -4,7 +4,7 @@ A Flutter Application To Discover The Weather Using [WeatherAPI](https://www.vis
 
 # Output
 
-![Weather App](https://github.com/nobelleon/Flutter-Weather-App-with-Auth/assets/76748114/9a713b42-9c84-4b25-98ad-59010ec71c28)
+![Weather App](https://github.com/nobelleon/Flutter-Weather-App-with-Auth/assets/76748114/e026bcd0-e82c-4fe5-bf43-18e5bbcaa8e9)
 
 ---
 
