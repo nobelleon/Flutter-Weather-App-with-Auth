@@ -29,6 +29,7 @@ number of popular features:
 * Cross platform support (Android, iOS, Web and macOS)
 * Firebase Auth integration
 * Login with e-mail & password
+* Register with e-mail & password
 * Logout Functionality
 
 ---
